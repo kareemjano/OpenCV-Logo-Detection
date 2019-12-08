@@ -11,6 +11,9 @@ Run the program using
 On the windows that pops up, select objects to track. If the program is closed, the objects will still be detected when starting the
 project again since the are present in the "stored" folder.
 
+ 
+![Detecting logos with different colors](https://github.com/kareemjano/OpenCV-Logo-Detection/blob/master/screenshots/logodet.PNG "Logo Detection")
+
 
 
 
